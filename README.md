@@ -1,1 +1,1 @@
-you can see a video of my fully functional project of Ecommerce
+You can view a demonstration of my fully operational Ecommerce project in the attached video.
