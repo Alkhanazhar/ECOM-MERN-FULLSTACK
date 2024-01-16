@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.main-container {
+  min-height: 85vh;
+  margin-top: 3.3rem;
+}
+:root {
+  --background-color: #f6f6f6 !important;
+  --foreground-color: #003cff !important;
+  --primary-color: #0a0a0a !important;
+  --secondary-color: #fff !important;
+  --toggle-bg: #f0eb9d !important;
+  --toggle-fg: #ffd000 !important;
+}
+::-webkit-scrollbar {
+  display: none !important;
+}
+::selection {
+  color: rgb(114, 14, 208);
+  background: #5f5f5f39;
+}
+/* Custom styling for Ant Design checkbox */
+
+body {
+  height: auto !important;
+  background: var(--background-color);
+  transition: 50ms ease-in-out;
+}

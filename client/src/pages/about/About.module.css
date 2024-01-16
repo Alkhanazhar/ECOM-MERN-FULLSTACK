@@ -1,0 +1,32 @@
+.aboutUsContainer {
+  display: flex;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.imageContainer {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.aboutUsImage {
+  width: 100%;
+  height: 100%;
+}
+
+.contentContainer {
+  flex: 1;
+}
+
+.aboutUsContainer h2 {
+  color: #333;
+}
+
+.aboutUsContainer h3 {
+  color: #555;
+}
+
+.aboutUsContainer p {
+  color: #777;
+}
